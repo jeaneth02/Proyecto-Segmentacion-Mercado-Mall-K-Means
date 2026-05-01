@@ -4,7 +4,14 @@
 Proyecto desarrollado en 4 sprints para identificar segmentos de clientes en un centro comercial mediante **análisis de clustering con K-Means**. El objetivo es optimizar estrategias de marketing personalizadas y mejorar la experiencia del cliente.
 
 ## 👥 Integrantes
-- [Tu Nombre Completo]
+- [Palazuelos Gálvez Ivonne A.]
+- [Dominguez Ayala Miztly]
+- [Camacho Lasseter Valeria]
+- [Aispuro Aispuro Daniela]
+- [Almeida Valenzuela Eliut]
+- [Navarrete Zazueta Natalia]
+- [Ruiz Ortiz Luis]
+- [Lachica Cepeda David]
 
 ## 🎯 Objetivos del Proyecto
 1. Identificar patrones de compra mediante análisis de datos
