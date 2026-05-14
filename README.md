@@ -44,6 +44,8 @@ Proyecto-Segmentacion-Mercado-Mall-K-Means/
 │
 ├── SegmentaciónKmeansMall.ipynb   # Notebook principal en Google Colab
 ├── README.md                      # Documentación principal
+```
+---
 
 ## 🚀 Uso del Repositorio
 
@@ -55,48 +57,52 @@ git clone https://github.com/jeaneth02/Proyecto-Segmentacion-Mercado-Mall-K-Mean
 - Excel/Power BI (visualización de datos)
 - Python/Jupyter Notebook (análisis de datos con K-Means)
 
-## 📅 Sprints del Proyecto
+## 📅 Sprints del Proyecto  
 
-###✅ Sprint 1 - Planificación
-Estructura de Desglose del Trabajo (EDT)
-Cronograma del proyecto
-Curvas S
-Planeación inicial
+### ✅ Sprint 1 - Planificación  
+- Estructura de Desglose del Trabajo (EDT)  
+- Cronograma del proyecto  
+- Curvas S  
+- Planeación inicial  
 
-###✅ Sprint 2 - Gestión del Proyecto
-Matriz de Adquisiciones
-Matriz de Riesgos
-Matriz de Comunicaciones
-Matriz de Responsabilidades
+### ✅ Sprint 2 - Gestión del Proyecto  
+- Matriz de Adquisiciones  
+- Matriz de Riesgos  
+- Matriz de Comunicaciones  
+- Matriz de Responsabilidades  
 
-###✅ Sprint 3 - Seguimiento y Control
-Reportes de avance
-Valor Ganado
-Registro de problemas
-Control del proyecto
+### ✅ Sprint 3 - Seguimiento y Control  
+- Reportes de avance  
+- Valor Ganado  
+- Registro de problemas  
+- Control del proyecto  
 
-###✅ Sprint 4 - Desarrollo del Análisis
-Limpieza y preparación de datos
-Exploración inicial de datos
-Organización del proyecto
-Documentación técnica
+### ✅ Sprint 4 - Desarrollo del Análisis  
+- Limpieza y preparación de datos  
+- Exploración inicial de datos  
+- Organización del proyecto  
+- Documentación técnica  
 
-###✅ Sprint 5 - Implementación del Modelo
-Aplicación de K-Means Clustering
-Segmentación de clientes
-Visualización de clusters
-Interpretación de resultados
+### ✅ Sprint 5 - Implementación del Modelo  
+- Aplicación de K-Means Clustering  
+- Segmentación de clientes  
+- Visualización de clusters  
+- Interpretación de resultados  
 
-###✅ Sprint 6 - Cierre del Proyecto
-Conclusiones finales
-Resultados obtenidos
-Recomendaciones estratégicas
-Documentación final y entrega
-##📈Resultados Esperados
-Identificación de segmentos de clientes
-Optimización de campañas de marketing
-Mejor comprensión del comportamiento de compra
-Uso práctico de técnicas de Machine Learning
+### ✅ Sprint 6 - Cierre del Proyecto  
+- Conclusiones finales  
+- Resultados obtenidos  
+- Recomendaciones estratégicas  
+- Documentación final y entrega
+
+## 📈 Resultados Esperados  
+
+- Identificación de segmentos de clientes  
+- Optimización de campañas de marketing  
+- Mejor comprensión del comportamiento de compra  
+- Aplicación práctica de Machine Learning en marketing  
+- Visualización clara de patrones y comportamientos de clientes  
+- Desarrollo de estrategias personalizadas para cada segmento  
 
 ## 📄 Licencia
 Proyecto académico - Tecnológico Nacional de México  
